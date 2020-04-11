@@ -1,4 +1,4 @@
-server:
+config:
   port: 3344
 
 spring:
